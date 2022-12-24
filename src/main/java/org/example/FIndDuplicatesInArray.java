@@ -19,7 +19,6 @@ public class FIndDuplicatesInArray {
             }
             i++;
         }
-        First
         System.out.println(hasDuplicate);
     }
 
