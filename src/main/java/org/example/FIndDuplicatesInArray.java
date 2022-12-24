@@ -20,7 +20,6 @@ public class FIndDuplicatesInArray {
             i++;
         }
         First
-                Second
         System.out.println(hasDuplicate);
     }
 
